@@ -1,4 +1,4 @@
-# Welcome to Our GitHub Organization 👋
+# Welcome to TG4-Dev 👋
 
 We are a team of passionate developers and designers based in Saint Petersburg, Russia. Our focus is on building high-quality software solutions—from backend infrastructure to polished user interfaces—with a strong sense of design and user experience.
 
